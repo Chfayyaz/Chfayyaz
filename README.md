@@ -73,19 +73,13 @@ Remote-friendly · API-first mindset · Performance-conscious delivery.
 
 <br>
 
-## Experience
+## Currently
 
-**AlrightTech · Full Stack MERN Developer**
+**Full Stack MERN Developer at AlrightTech** · Rawalpindi, Pakistan
 
-- Shipping **REST APIs** and integrations with predictable contracts for web clients.
-- Implementing **JWT** sessions and **RBAC** patterns for safer, role-aware features.
-- Driving **performance** wins (payload discipline, rendering strategy, lean queries).
-- Preferring **reusable architecture**—shared modules, conventions, and maintainable boundaries.
+Building production **MERN** software—**REST** services, **Next.js/React** interfaces, **MongoDB**-backed features, and secure auth flows for **SaaS-style** and **marketplace** products.
 
-**Webicosoft · Frontend Developer** *(prior)*
-
-- Built **reusable UI** systems that reduced duplication across **multiple** shipped apps.
-- Tight collaboration on **API**-backed features; fewer round-trips, faster pages.
+Ask me about **API design**, **JWT & RBAC**, **performance tuning** (bundles, queries, payloads), or **full-stack architecture** on the MERN stack.
 
 <br>
 
