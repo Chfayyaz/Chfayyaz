@@ -106,20 +106,6 @@ Remote-friendly · API-first mindset · Performance-conscious delivery.
 
 <br>
 
-## Featured projects
-
-| Project | What it is |
-| :-- | :-- |
-| **Shadi.pk** | **Matchmaking SaaS** — profiles, journeys, and ops-ready workflows on **MERN**. |
-| **BizOwnerSell** | **Marketplace + Stripe** — listings, monetization, and secured server flows (**JWT / RBAC**). |
-| **DigitalInfoCard** | **Digital QR business cards** — shareable profiles, **React** UI, **Node** + **MongoDB** backend. |
-
-<br>
-
----
-
-<br>
-
 ## GitHub
 
 <p align="center">
