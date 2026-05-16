@@ -106,20 +106,6 @@ Remote-friendly · API-first mindset · Performance-conscious delivery.
 
 <br>
 
-## GitHub
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=chfayyaz&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="GitHub stats" />
-  &nbsp;&nbsp;
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chfayyaz&layout=compact&theme=github_dark&hide_border=true&langs_count=8&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="Top languages" />
-</p>
-
-<br>
-
----
-
-<br>
-
 <div align="center">
 
 **Contact**
