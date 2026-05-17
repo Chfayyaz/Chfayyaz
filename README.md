@@ -13,7 +13,10 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-chfayyaz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chfayyaz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-fayyaz-458239164)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://muhammadfayyazportfolio.vercel.app/)
+[![CV](https://img.shields.io/badge/CV-Google_Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1dOVzMwLKpa486f2L41wWk1Vmd-BlR9Ka/view?usp=sharing)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chfayyaz246@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923036060342)
 
 </div>
 
@@ -107,5 +110,8 @@ Ask me about **API design**, **JWT & RBAC**, **performance tuning** (bundles, qu
 [![Email](https://img.shields.io/badge/Email-chfayyaz246%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chfayyaz246@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-fayyaz-458239164)
 [![GitHub](https://img.shields.io/badge/GitHub-chfayyaz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chfayyaz)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://muhammadfayyazportfolio.vercel.app/)
+[![CV](https://img.shields.io/badge/CV-Google_Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1dOVzMwLKpa486f2L41wWk1Vmd-BlR9Ka/view?usp=sharing)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923036060342)
 
 </div>
